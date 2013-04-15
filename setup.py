@@ -5,7 +5,7 @@ setup(
     name='django-potato-captcha',
     version='0.1',
     description='A very simple, clever Django captcha application',
-    long_description=open('README.md').read(),
+    long_description=open('README.rst').read(),
     author='Chris Van',
     author_email='cvan@mozilla.com',
     license='BSD',
