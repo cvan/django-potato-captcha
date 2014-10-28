@@ -8,7 +8,7 @@ two honeypot fields:
 
 
 1. ``tuber``: This field should always be blank.
-2. ``potato``: This field's value should always be ``potato``, which should
+2. ``sprout``: This field's value should always be ``potato``, which should
    get set by JavaScript in your template.
 
 
